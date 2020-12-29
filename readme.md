@@ -2,9 +2,7 @@ This is a tidied version of the Human Activity Recognition Using Smartphones Dat
 
 The raw data has been manipulated by run_analysis.R to perform the following operations:
 
-Test and training data was combined
-All measurements other than mean and standard deviation were ignored
-Activity measurements for each subject were aggregated and averaged
+Test and training data was combined; all measurements other than mean and standard deviation were ignored; activity measurements for each subject were aggregated and averaged.
 
 Details of these operations are provided by comments in the script.
 
