@@ -8,3 +8,5 @@ Activity measurements for each subject were aggregated and averaged
 
 Details of these operations are provided by comments in the script.
 
+Original data source can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
